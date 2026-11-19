@@ -1,0 +1,19 @@
+{
+  "Profile": "Windows11",
+  "MinimumPasswordLength": 12,
+  "PasswordHistory": 12,
+  "MaximumPasswordAgeDays": 30,
+  "MinimumPasswordAgeDays": 1,
+  "LockoutThreshold": 5,
+  "LockoutDurationMinutes": 30,
+  "LockoutWindowMinutes": 30,
+  "DisableSpooler": false,
+  "DisableSimpleTcpIp": true,
+  "ConfigureChromePolicies": true,
+  "EnableWindowsUpdate": true,
+  "DisableGuest": true,
+  "AuthorizedUsers": [],
+  "AuthorizedAdministrators": [],
+  "AllowManualReviewOnly": true,
+  "DisableAutoRun": true
+}
